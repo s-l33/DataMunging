@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMunging.Utils", "DataMunging.Utils\DataMunging.Utils.csproj", "{ECE42CA1-AE48-4759-8A3F-DBB40F7AECE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMunging.Client", "DataMunging.Client\DataMunging.Client.csproj", "{28E12D65-ADFD-425D-943C-8979D1E4CD5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE42CA1-AE48-4759-8A3F-DBB40F7AECE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE42CA1-AE48-4759-8A3F-DBB40F7AECE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE42CA1-AE48-4759-8A3F-DBB40F7AECE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE42CA1-AE48-4759-8A3F-DBB40F7AECE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E12D65-ADFD-425D-943C-8979D1E4CD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E12D65-ADFD-425D-943C-8979D1E4CD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E12D65-ADFD-425D-943C-8979D1E4CD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E12D65-ADFD-425D-943C-8979D1E4CD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB48C41B-8760-4753-8DEB-0C920B2DCD82}
+	EndGlobalSection
+EndGlobal
